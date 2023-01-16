@@ -1,0 +1,75 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="18">
+            <item index="0" class="java.lang.String" itemvalue="pydantic" />
+            <item index="1" class="java.lang.String" itemvalue="asgiref" />
+            <item index="2" class="java.lang.String" itemvalue="cx-Oracle" />
+            <item index="3" class="java.lang.String" itemvalue="h11" />
+            <item index="4" class="java.lang.String" itemvalue="typing-extensions" />
+            <item index="5" class="java.lang.String" itemvalue="requests" />
+            <item index="6" class="java.lang.String" itemvalue="click" />
+            <item index="7" class="java.lang.String" itemvalue="sniffio" />
+            <item index="8" class="java.lang.String" itemvalue="fastapi" />
+            <item index="9" class="java.lang.String" itemvalue="pymssql" />
+            <item index="10" class="java.lang.String" itemvalue="colorama" />
+            <item index="11" class="java.lang.String" itemvalue="starlette" />
+            <item index="12" class="java.lang.String" itemvalue="certifi" />
+            <item index="13" class="java.lang.String" itemvalue="anyio" />
+            <item index="14" class="java.lang.String" itemvalue="charset-normalizer" />
+            <item index="15" class="java.lang.String" itemvalue="urllib3" />
+            <item index="16" class="java.lang.String" itemvalue="uvicorn" />
+            <item index="17" class="java.lang.String" itemvalue="idna" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E722" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="cx_Oracle" />
+          <option value="object.__getitem__" />
+          <option value="object.query" />
+          <option value="object.commit" />
+          <option value="object.add" />
+          <option value="object.plu" />
+          <option value="object.cod_acesso" />
+          <option value="object.descricao_produto" />
+          <option value="object.categoria" />
+          <option value="object.id_compra" />
+          <option value="object.id_usuario" />
+          <option value="object.id_jogada" />
+          <option value="object.id_produto" />
+          <option value="list.id_produto" />
+          <option value="list.id_usuario" />
+          <option value="list.categoria" />
+          <option value="list.descricao_produto" />
+          <option value="list.cod_acesso" />
+          <option value="list.plu" />
+          <option value="object.voucher" />
+          <option value="object.coo" />
+          <option value="object.checkout" />
+          <option value="list.tipo" />
+          <option value="object.tipo" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
